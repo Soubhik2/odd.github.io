@@ -116,6 +116,23 @@ img:hover{
 }
 
 
-@media screen and (max-width: 950px){
-	
+@media screen and (max-width: 600px) {
+
+	.img-pop{
+	display: inline-block;
+  }
+
+  button{
+  	width: 100%
+  }
+.menu-bar ul{
+	display: inline-block;
+	list-style: none;
+	color: white;
+}
+  .navbar ul li{
+	width: `100%;
+	margin-right: 10px;
+  }
+
 }
