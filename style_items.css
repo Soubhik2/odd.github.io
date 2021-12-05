@@ -1,0 +1,32 @@
+.items-c1{
+	margin-top: 10px;
+	width: 100%;
+	text-align: center;
+	border: 3px solid red;
+}
+
+.items-c1 ul li{
+	
+	padding: 20px;
+	border: 3px solid green;
+}
+
+.fieldset-2{
+	border: 3.2px solid #0082e6;
+	border-radius: 20px;
+	background: #edf7ff;
+}
+
+.legend1{
+	color: #ffffff;
+	font-size: 25px;
+	background: #0082e6;
+	border-radius: 10px;
+	padding: 5px;
+}
+
+@media (max-width: 1025px){
+	.items-c1{
+		margin: 10px;
+	}
+}
