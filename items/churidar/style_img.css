@@ -1,0 +1,104 @@
+img{
+	border-radius: 10px;
+	width: 250px;
+	transition: 0.5s;
+}
+
+button{
+	background:white;
+	border: 1px solid #ffffff;
+	border-radius:10px;
+}
+
+.img-pop{
+	margin-top:1px;
+	width: 100%;
+	text-align: center;
+}
+
+.price{
+	
+	display: inline-flex;
+	text-align: center;
+}
+
+.price ul{
+	margin-top: 30px;
+	list-style: none;
+	padding: 1px;
+	margin:20px;
+	border: 2px solid #0082e6;
+	border-radius: 10px;
+	transition: 0.5s;
+}
+
+/*.price ul li{
+	
+	padding: 5px;
+	border: 2px solid green;
+	border-radius: 10px;
+}*/
+
+.name-tag{
+	margin-top: 30px;
+	text-transform:capitalize;
+	font-size: 18px;
+	font-weight: bold;
+	width: 100%;
+	border-radius: 10px;
+	color: red;
+}
+
+.price ul li:hover{
+	background: #0082e6;
+	border-radius:10px;
+	color: white;
+}
+
+img:hover{
+	margin-top: -30px;
+	margin-bottom: 30px;
+}
+
+@media screen and (max-width: 800px) {
+
+	.price{
+	display: inline-flex;
+	flex-direction: column;
+  }
+
+  .name-tag{
+  	margin-top: 110px;
+  }
+
+}
+
+.price-tag{
+	font-size:23px;
+	font-weight: bold;
+}
+
+
+@media screen and (max-width: 600px) {
+
+	.price{
+	display: inline-block;
+  }
+
+  button{
+  	width: 100%
+  }
+.menu-bar ul{
+	display: inline-block;
+	list-style: none;
+	color: white;
+}
+  .navbar ul li{
+	width: `100%;
+	margin-right: 10px;
+  }
+
+	img{
+  	width:100%;
+  }
+}
