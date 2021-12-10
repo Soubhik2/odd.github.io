@@ -1,0 +1,37 @@
+button{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	width: 40%;
+	text-transform: uppercase;
+	padding: 10px 20px;
+	color:#0082e6;
+	background: transparent;
+	border: 2px solid #0082e6;
+	border-radius: 30px;
+	transition: 0.5s;
+}
+
+button:hover{
+	/*width: 100%;
+	padding: 40px 20px;*/
+	color:white;
+	background: #8bbae0;
+}
+
+fieldset{
+	border-radius: 12px;
+	border: 2px solid #0082e6;
+}
+
+legend{
+    text-align:center;
+    border: 2px solid #0082e6;
+    border-radius:30px;
+    padding:4px;
+}
+
+@media screen and (max-width: 800px) {
+	button{
+		width: 100%;
+	}
+  }
