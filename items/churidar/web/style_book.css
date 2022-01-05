@@ -25,6 +25,18 @@ fieldset{
 	font-weight:bold;
 }
 
+.text-2{
+	font-size:20px;
+	margin-left:10px;
+	margin-right:10px;
+	color:#b1b0b0;
+}
+
+.text-3{
+	font-size:22px;
+	color:#01c101;
+}
+
 .button-style button{
 	background:white;
 	border: 2px solid #0082e6;
@@ -49,4 +61,15 @@ img{
 	.button-style button{
 		width:100%;
 	}
+}
+
+@media (max-width: 430px){
+	.button-style button{
+		width:100%;
+	}
+
+	img{
+	    width:100%;
+	    padding: 0px;
+    }
 }
