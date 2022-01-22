@@ -232,79 +232,79 @@ function p25(){
 
 function buttonF(){
 	switch(Switch){
-		case "1": window.location.href = "https://wa.me/919432330558/?text=code%201";
+		case "1": window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%201";
 			break;
 		
-		case "2":  window.location.href = "https://wa.me/919432330558/?text=code%202";
+		case "2":  window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%202";
 			break;
 		
-		case "3":  window.location.href = "https://wa.me/919432330558/?text=code%203"; 
+		case "3":  window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%203"; 
 			break;
 		
-		case "4":  window.location.href = "https://wa.me/919432330558/?text=code%204";
+		case "4":  window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%204";
 			break;
 		
-		case "5":  window.location.href = "https://wa.me/919432330558/?text=code%205";
+		case "5":  window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%205";
 			break;
 		
-		case "6":  window.location.href = "https://wa.me/919432330558/?text=code%206"; 
+		case "6":  window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%206"; 
 			break;
 		
-		case "7":  window.location.href = "https://wa.me/919432330558/?text=code%207";
+		case "7":  window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%207";
 			break;
 			
-		case "8":  window.location.href = "https://wa.me/919432330558/?text=code%208";
+		case "8":  window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%208";
 			break;
 		
-		case "9":  window.location.href = "https://wa.me/919432330558/?text=code%209"; 
+		case "9":  window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%209"; 
 			break;
 		
-		case "10":  window.location.href = "https://wa.me/919432330558/?text=code%2010";
+		case "10":  window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%2010";
 			break;
 		
-		case "11":  window.location.href = "https://wa.me/919432330558/?text=code%2011";
+		case "11":  window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%2011";
 			break;
 		
-		case "12":  window.location.href = "https://wa.me/919432330558/?text=code%2012"; 
+		case "12":  window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%2012"; 
 			break;
 		
-		case "13":  window.location.href = "https://wa.me/919432330558/?text=code%2013";
+		case "13":  window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%2013";
 			break;
 		
-		case "14": window.location.href = "https://wa.me/919432330558/?text=code%2014" ;
+		case "14": window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%2014" ;
 			break;
 		
-		case "15":  window.location.href = "https://wa.me/919432330558/?text=code%2015"; 
+		case "15":  window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%2015"; 
 			break;
 			
-		case "16":  window.location.href = "https://wa.me/919432330558/?text=code%2016";
+		case "16":  window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%2016";
 			break;
 		
-		case "17": window.location.href = "https://wa.me/919432330558/?text=code%2017";
+		case "17": window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%2017";
 			break;
 		
-		case "18":  window.location.href = "https://wa.me/919432330558/?text=code%2018"; 
+		case "18":  window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%2018"; 
 			break;
 			
-		case "19":  window.location.href = "https://wa.me/919432330558/?text=code%2019"; 
+		case "19":  window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%2019"; 
 			break;
 		
-		case "20": window.location.href = "https://wa.me/919432330558/?text=code%2020"; 
+		case "20": window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%2020"; 
 			break;
 		
-		case "21":  window.location.href = "https://wa.me/919432330558/?text=code%2021"; 
+		case "21":  window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%2021"; 
 			break;
 		
-		case "22":  window.location.href = "https://wa.me/919432330558/?text=code%2022"; 
+		case "22":  window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%2022"; 
 			break;
 		
-		case "23":  window.location.href = "https://wa.me/919432330558/?text=code%223"; 
+		case "23":  window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%223"; 
 			break;
 		
-		case "24":  window.location.href = "https://wa.me/919432330558/?text=code%2024"; 
+		case "24":  window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%2024"; 
 			break;
 			
-		case "25":  window.location.href = "https://wa.me/919432330558/?text=code%2025"; 
+		case "25":  window.location.href = "https://wa.me/919432330558/?text=Churidar%20code%2025"; 
 			break;
 		
 	}
