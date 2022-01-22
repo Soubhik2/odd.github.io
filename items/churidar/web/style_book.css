@@ -12,7 +12,12 @@ fieldset{
 
 .button-style{
 	text-align:center;
-	margin-top:100px;
+	margin-top:40px;
+}
+
+.button-style1{
+	text-align:center;
+	margin-top:10px;
 }
 
 .price li{
@@ -37,17 +42,18 @@ fieldset{
 	color:#01c101;
 }
 
-.button-style button{
+ button{
 	background:white;
 	border: 2px solid #0082e6;
 	padding: 10px 20px;
 	width: 40%;
 	border-radius: 50px;
+	color:#0082e6;
 	text-transform: uppercase;
 	transition:0.5s;
 }
 
-.button-style button:hover{
+button:hover{
 	background:#0082e6;
 	color: white;
 }
@@ -57,10 +63,48 @@ img{
 	padding:20px;
 }
 
+.in-style{
+	text-align:center;
+	margin-top: 40px;
+}
+
+input[type = text]{
+	padding: 10px 20px;
+	width: 35%;
+	border-radius:50px;
+	color:#0082e6;
+	font-weight:bold;
+	font-size:15px;
+	border: 2px solid #0082e6;
+}
+
+::placeholder{
+	color:#0082e6;
+}
+
+input[type = text]:focus{
+	background:#0082e6;
+	border: 2px solid #0082e6;
+	color:white;
+}
+
+.name101{
+	text-align:center;
+	color:blue;
+	font-size: 30px;
+	font-weight:bold;
+	text-transform:uppercase;
+	margin-bottom:200px;
+}
+
 @media (max-width: 800px){
-	.button-style button{
+	button{
 		width:100%;
 	}
+	
+	input[type = text]{
+	    width:85%;
+    }
 }
 
 @media (max-width: 430px){
