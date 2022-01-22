@@ -53,245 +53,259 @@ switch(Switch){
 		
 	case "18": p18(); 
 		break;
+		
+	case "19": p19(); 
+		break;
+		
+	case "20": p20(); 
+		break;
+		
+	case "21": p21(); 
+		break;
+		
+	case "22": p22(); 
+		break;
+		
+	case "23": p23(); 
+		break;
+		
+	case "24": p24(); 
+		break;
+		
+	case "25": p25(); 
+		break;
+		
+	case "18": p18(); 
+		break;
 }
 
 function p1(){
 	document.getElementById("Img-1").src = "Churidar/p1.jpeg";
-	document.getElementById("text1").innerHTML = "price Rs:- 480 ";
+	document.getElementById("text1").innerHTML = "price Rs:- 560 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
 }
 
 function p2(){
 	document.getElementById("Img-1").src = "Churidar/p2.jpeg";
-	document.getElementById("text1").innerHTML = "price Rs:- 480 ";
+	document.getElementById("text1").innerHTML = "price Rs:- 560 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";	
 }
 
 function p3(){
 	document.getElementById("Img-1").src = "Churidar/p3.jpeg"; 
-	document.getElementById("text1").innerHTML = "price Rs:- 480 ";
+	document.getElementById("text1").innerHTML = "price Rs:- 560 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22 ";
 }
 
 function p4(){
 	document.getElementById("Img-1").src = "Churidar/p4.jpeg";
-	document.getElementById("text1").innerHTML = "price Rs:- 480 ";
+	document.getElementById("text1").innerHTML = "price Rs:- 560 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
 }
 
 function p5(){
 	document.getElementById("Img-1").src = "Churidar/p5.jpeg";
-	document.getElementById("text1").innerHTML = "price Rs:- 570 ";
+	document.getElementById("text1").innerHTML = "price Rs:- 560 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";	
 }
 
 function p6(){
 	document.getElementById("Img-1").src = "Churidar/p6.jpeg"; 
-	document.getElementById("text1").innerHTML = "price Rs:- 570 ";
+	document.getElementById("text1").innerHTML = "price Rs:- 560 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
 }
 
 function p7(){
 	document.getElementById("Img-1").src = "Churidar/p7.jpeg";
-	document.getElementById("text1").innerHTML = "price Rs:- 570 ";
+	document.getElementById("text1").innerHTML = "price Rs:- 560 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
 }
 
 function p8(){
 	document.getElementById("Img-1").src = "Churidar/p8.jpeg";
-	document.getElementById("text1").innerHTML = "price Rs:- 570 ";
+	document.getElementById("text1").innerHTML = "price Rs:- 660 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";	
 }
 
 function p9(){
 	document.getElementById("Img-1").src = "Churidar/p9.jpeg"; 
-	document.getElementById("text1").innerHTML = "price Rs:- 570 ";
+	document.getElementById("text1").innerHTML = "price Rs:- 660 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
 }
 
 function p10(){
 	document.getElementById("Img-1").src = "Churidar/p10.jpeg";
-	document.getElementById("text1").innerHTML = "price Rs:- 570 ";
+	document.getElementById("text1").innerHTML = "price Rs:- 660 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
 }
 
 function p11(){
 	document.getElementById("Img-1").src = "Churidar/p11.jpeg";
-	document.getElementById("text1").innerHTML = "price Rs:- 570 ";
+	document.getElementById("text1").innerHTML = "price Rs:- 660 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";	
 }
 
 function p12(){
 	document.getElementById("Img-1").src = "Churidar/p12.jpeg"; 
-	document.getElementById("text1").innerHTML = "price Rs:- 570 ";
+	document.getElementById("text1").innerHTML = "price Rs:- 460 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
 }
 
 function p13(){
-	document.getElementById("Img-1").src = "Churidar/p13.jpg";
-	document.getElementById("text1").innerHTML = "price Rs:- 1490 ";
+	document.getElementById("Img-1").src = "Churidar/p13.jpeg";
+	document.getElementById("text1").innerHTML = "price Rs:- 460 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
 }
 
 function p14(){
-	document.getElementById("Img-1").src = "Churidar/p14.jpg";
-	document.getElementById("text1").innerHTML = "price Rs:- 870 ";
+	document.getElementById("Img-1").src = "Churidar/p14.jpeg";
+	document.getElementById("text1").innerHTML = "price Rs:- 460 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";	
 }
 
 function p15(){
-	document.getElementById("Img-1").src = "Churidar/p15.jpg"; 
-	document.getElementById("text1").innerHTML = "price Rs:- 870 ";
+	document.getElementById("Img-1").src = "Churidar/p15.jpeg"; 
+	document.getElementById("text1").innerHTML = "price Rs:- 460 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
 }
 
 function p16(){
-	document.getElementById("Img-1").src = "Churidar/p16.jpg";
-	document.getElementById("text1").innerHTML = "price Rs:- 1490 ";
+	document.getElementById("Img-1").src = "Churidar/p16.jpeg";
+	document.getElementById("text1").innerHTML = "price Rs:- 460 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
 }
 
 function p17(){
-	document.getElementById("Img-1").src = "Churidar/p17.jpg";
-	document.getElementById("text1").innerHTML = "price Rs:- 870 ";
+	document.getElementById("Img-1").src = "Churidar/p17.jpeg";
+	document.getElementById("text1").innerHTML = "price Rs:- 460 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";	
 }
 
 function p18(){
-	document.getElementById("Img-1").src = "Churidar/p18.jpg"; 
-	document.getElementById("text1").innerHTML = "price Rs:- 870 ";
+	document.getElementById("Img-1").src = "Churidar/p18.jpeg"; 
+	document.getElementById("text1").innerHTML = "price Rs:- 460 ";
+	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
+}
+
+function p19(){
+	document.getElementById("Img-1").src = "Churidar/p19.jpeg"; 
+	document.getElementById("text1").innerHTML = "price Rs:- 460 ";
+	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
+}
+
+function p20(){
+	document.getElementById("Img-1").src = "Churidar/p20.jpeg"; 
+	document.getElementById("text1").innerHTML = "price Rs:- 460 ";
+	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
+}
+
+function p21(){
+	document.getElementById("Img-1").src = "Churidar/p21.jpeg"; 
+	document.getElementById("text1").innerHTML = "price Rs:- 460 ";
+	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
+}
+
+function p22(){
+	document.getElementById("Img-1").src = "Churidar/p22.jpeg"; 
+	document.getElementById("text1").innerHTML = "price Rs:- 460 ";
+	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
+}
+
+function p23(){
+	document.getElementById("Img-1").src = "Churidar/p23.jpeg"; 
+	document.getElementById("text1").innerHTML = "price Rs:- 460 ";
+	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
+}
+
+function p24(){
+	document.getElementById("Img-1").src = "Churidar/p24.jpeg"; 
+	document.getElementById("text1").innerHTML = "price Rs:- 460 ";
+	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
+}
+
+function p25(){
+	document.getElementById("Img-1").src = "Churidar/p25.jpeg"; 
+	document.getElementById("text1").innerHTML = "price Rs:- 460 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
 }
 
 
 function buttonF(){
 	switch(Switch){
-		case "1": b1();
+		case "1": window.location.href = "https://wa.me/919432330558/?text=code%201";
 			break;
 		
-		case "2": b2();
+		case "2":  window.location.href = "https://wa.me/919432330558/?text=code%202";
 			break;
 		
-		case "3": b3(); 
+		case "3":  window.location.href = "https://wa.me/919432330558/?text=code%203"; 
 			break;
 		
-		case "4": b4();
+		case "4":  window.location.href = "https://wa.me/919432330558/?text=code%204";
 			break;
 		
-		case "5": b5();
+		case "5":  window.location.href = "https://wa.me/919432330558/?text=code%205";
 			break;
 		
-		case "6": b6(); 
+		case "6":  window.location.href = "https://wa.me/919432330558/?text=code%206"; 
 			break;
 		
-		case "7": b7();
+		case "7":  window.location.href = "https://wa.me/919432330558/?text=code%207";
 			break;
 			
-		case "8": b8();
+		case "8":  window.location.href = "https://wa.me/919432330558/?text=code%208";
 			break;
 		
-		case "9": b9(); 
+		case "9":  window.location.href = "https://wa.me/919432330558/?text=code%209"; 
 			break;
 		
-		case "10": b10();
+		case "10":  window.location.href = "https://wa.me/919432330558/?text=code%2010";
 			break;
 		
-		case "11": b11();
+		case "11":  window.location.href = "https://wa.me/919432330558/?text=code%2011";
 			break;
 		
-		case "12": b12(); 
+		case "12":  window.location.href = "https://wa.me/919432330558/?text=code%2012"; 
 			break;
 		
-		case "13": b13();
+		case "13":  window.location.href = "https://wa.me/919432330558/?text=code%2013";
 			break;
 		
-		case "14": b14();
+		case "14": window.location.href = "https://wa.me/919432330558/?text=code%2014" ;
 			break;
 		
-		case "15": b15(); 
+		case "15":  window.location.href = "https://wa.me/919432330558/?text=code%2015"; 
 			break;
 			
-		case "16": b16();
+		case "16":  window.location.href = "https://wa.me/919432330558/?text=code%2016";
 			break;
 		
-		case "17": b17();
+		case "17": window.location.href = "https://wa.me/919432330558/?text=code%2017";
 			break;
 		
-		case "18": b18(); 
+		case "18":  window.location.href = "https://wa.me/919432330558/?text=code%2018"; 
 			break;
+			
+		case "19":  window.location.href = "https://wa.me/919432330558/?text=code%2019"; 
+			break;
+		
+		case "20": window.location.href = "https://wa.me/919432330558/?text=code%2020"; 
+			break;
+		
+		case "21":  window.location.href = "https://wa.me/919432330558/?text=code%2021"; 
+			break;
+		
+		case "22":  window.location.href = "https://wa.me/919432330558/?text=code%2022"; 
+			break;
+		
+		case "23":  window.location.href = "https://wa.me/919432330558/?text=code%223"; 
+			break;
+		
+		case "24":  window.location.href = "https://wa.me/919432330558/?text=code%2024"; 
+			break;
+			
+		case "25":  window.location.href = "https://wa.me/919432330558/?text=code%2025"; 
+			break;
+		
 	}
-}
-
-function b1(){
-	window.location.href = "https://wa.me/919432330558/?text=https://drive.google.com/file/d/1ozcqTCkAFUHOrnThT8G3eZGSfQiz4v9b/view?usp=sharing";
-}
-
-function b2(){
-	window.location.href = "https://wa.me/919432330558/?text=https://drive.google.com/file/d/17ktM3182OoQEXOol9O0srPuj4CEVS83y/view?usp=sharing";
-}
-
-function b3(){
-	window.location.href = "https://wa.me/919432330558/?text=https://drive.google.com/file/d/1hwyoSHd8j5Ep29SoWIbrHbpj8EcseXZz/view?usp=sharing";
-}
-
-function b4(){
-	window.location.href = "https://wa.me/919432330558/?text=https://drive.google.com/file/d/1jpuF1Mg0-ZUKdl3dP4Id5KLan78AFkij/view?usp=sharing";
-}
-
-function b5(){
-	window.location.href = "https://wa.me/919432330558/?text=https://drive.google.com/file/d/1yojw8Bjv2IeKaLnfN2a-KIU7uz3jVSkR/view?usp=sharing";	
-}
-
-function b6(){
-	window.location.href = "https://wa.me/919432330558/?text=https://drive.google.com/file/d/1Tga00whnCFwA5YCUsxdpibblo-g2NCs4/view?usp=sharing";
-}
-
-function b7(){
-	window.location.href = "https://wa.me/919432330558/?text=https://drive.google.com/file/d/1BiIQ-6TgkiZXyivWKPpPX02PZsiFP5iq/view?usp=sharing";
-}
-
-function b8(){
-	window.location.href = "https://wa.me/919432330558/?text=https://drive.google.com/file/d/1YVSq_HdeHg9VWcrXGpiHxyM-m_fRSmjo/view?usp=sharing";	
-}
-
-function b9(){
-	window.location.href = "https://wa.me/919432330558/?text=https://drive.google.com/file/d/1gcgwR6d658Q0861Vmx13nfDK9wpwVSat/view?usp=sharing";
-}
-
-function b10(){
-	window.location.href = "https://wa.me/919432330558/?text=https://drive.google.com/file/d/1645UdzWfYjghMe7GGqHCvCHZ7UR5zFSQ/view?usp=sharing";
-}
-
-function b11(){
-	window.location.href = "https://wa.me/919432330558/?text=https://drive.google.com/file/d/16Ne2Pu3iexLpMGzy0QXDf4cGo3Kdryae/view?usp=sharing";	
-}
-
-function b12(){
-	window.location.href = "https://wa.me/919432330558/?text=https://drive.google.com/file/d/19ymUY7bHEZW3grY6CqLTkIEOW87QmB7m/view?usp=sharing";
-}
-
-// 12 items fonded
-
-function b13(){
-	window.location.href = "https://wa.me/919123816216/?text=https://drive.google.com/file/d/1HwuAplg9Jn-TLOMU7usdB902DbleOH98/view?usp=sharing";
-}
-
-function b14(){
-	window.location.href = "https://wa.me/919123816216/?text=https://drive.google.com/file/d/1WylxM3MzsK3cd8iy4ZhI6wsv_fXB6-jl/view?usp=sharing";	
-}
-
-function b15(){
-	window.location.href = "https://wa.me/919123816216/?text=https://drive.google.com/file/d/1oVWY9zoYCQpM3KpjZ22unwOFDJOZZi36/view?usp=sharing";
-}
-
-function b16(){
-	window.location.href = "https://wa.me/919123816216/?text=https://drive.google.com/file/d/1PHE5maWKf5P6udH9Voj6qyrl0ExUCC6W/view?usp=sharing";
-}
-
-function b17(){
-	window.location.href = "https://wa.me/919123816216/?text=https://drive.google.com/file/d/1VQYu6x8bv0yNDDKQlRoCz_qSVyV1n3-k/view?usp=sharing";	
-}
-
-function b18(){
-	window.location.href = "https://wa.me/919123816216/?text=https://drive.google.com/file/d/1YlcQQW0sbtufiYkj944FpHqyaQEHULcY/view?usp=sharing";
 }
