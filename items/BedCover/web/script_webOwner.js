@@ -84,55 +84,55 @@ function buttonF1(){
 }
 
 function p1(){
-	document.getElementById("Img-1").src = "Churidar/p1.jpeg";
-	document.getElementById("text1").innerHTML = "price Rs:- 560 ";
-	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
+	document.getElementById("Img-1").src = "BedCover/p1.jpeg";
+	document.getElementById("text1").innerHTML = "price Rs:- 540 ";
+	document.getElementById("text2").innerHTML = " (pure cotton) 1 item Updated 5/1/22";
 }
 
 function p2(){
-	document.getElementById("Img-1").src = "Churidar/p2.jpeg";
-	document.getElementById("text1").innerHTML = "price Rs:- 560 ";
-	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";	
+	document.getElementById("Img-1").src = "BedCover/p2.jpeg";
+	document.getElementById("text1").innerHTML = "price Rs:- 540 ";
+	document.getElementById("text2").innerHTML = " (pure cotton) 1 item Updated 5/1/22";	
 }
 
 function p3(){
-	document.getElementById("Img-1").src = "Churidar/p3.jpeg"; 
-	document.getElementById("text1").innerHTML = "price Rs:- 560 ";
-	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22 ";
+	document.getElementById("Img-1").src = "BedCover/p3.jpeg"; 
+	document.getElementById("text1").innerHTML = "price Rs:- 540 ";
+	document.getElementById("text2").innerHTML = " (pure cotton) 1 item Updated 5/1/22 ";
 }
 
 function p4(){
-	document.getElementById("Img-1").src = "Churidar/p4.jpeg";
-	document.getElementById("text1").innerHTML = "price Rs:- 560 ";
-	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
+	document.getElementById("Img-1").src = "BedCover/p4.jpeg";
+	document.getElementById("text1").innerHTML = "price Rs:- 540 ";
+	document.getElementById("text2").innerHTML = " (pure cotton) 1 item Updated 5/1/22";
 }
 
 function p5(){
-	document.getElementById("Img-1").src = "Churidar/p5.jpeg";
-	document.getElementById("text1").innerHTML = "price Rs:- 560 ";
-	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";	
+	document.getElementById("Img-1").src = "BedCover/p5.jpeg";
+	document.getElementById("text1").innerHTML = "price Rs:- 540 ";
+	document.getElementById("text2").innerHTML = " (pure cotton) 1 item Updated 5/1/22";	
 }
-
+/*
 function p6(){
-	document.getElementById("Img-1").src = "Churidar/p6.jpeg"; 
+	document.getElementById("Img-1").src = "BedCover/p6.jpeg"; 
 	document.getElementById("text1").innerHTML = "price Rs:- 560 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
 }
 
 function p7(){
-	document.getElementById("Img-1").src = "Churidar/p7.jpeg";
+	document.getElementById("Img-1").src = "BedCover/p7.jpeg";
 	document.getElementById("text1").innerHTML = "price Rs:- 560 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
 }
 
 function p8(){
-	document.getElementById("Img-1").src = "Churidar/p8.jpeg";
+	document.getElementById("Img-1").src = "BedCover/p8.jpeg";
 	document.getElementById("text1").innerHTML = "price Rs:- 660 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";	
 }
 
 function p9(){
-	document.getElementById("Img-1").src = "Churidar/p9.jpeg"; 
+	document.getElementById("Img-1").src = "BedCover/p9.jpeg"; 
 	document.getElementById("text1").innerHTML = "price Rs:- 660 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
 }
@@ -231,4 +231,4 @@ function p25(){
 	document.getElementById("Img-1").src = "Churidar/p25.jpeg"; 
 	document.getElementById("text1").innerHTML = "price Rs:- 460 ";
 	document.getElementById("text2").innerHTML = "Churidar (pure cotton) 1 item Updated 5/1/22";
-}
+}*/
