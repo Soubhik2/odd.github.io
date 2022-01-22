@@ -105,3 +105,45 @@ function button18(){
 	let Switch = 18;
 	localStorage.setItem("Switch",Switch);
 }
+
+function button19(){
+	window.location.href = "web/web_side.html";
+	let Switch = 19;
+	localStorage.setItem("Switch",Switch);
+}
+
+function button20(){
+	window.location.href = "web/web_side.html";
+	let Switch = 20;
+	localStorage.setItem("Switch",Switch);
+}
+
+function button21(){
+	window.location.href = "web/web_side.html";
+	let Switch = 21;
+	localStorage.setItem("Switch",Switch);
+}
+
+function button22(){
+	window.location.href = "web/web_side.html";
+	let Switch = 22;
+	localStorage.setItem("Switch",Switch);
+}
+
+function button23(){
+	window.location.href = "web/web_side.html";
+	let Switch = 23;
+	localStorage.setItem("Switch",Switch);
+}
+
+function button24(){
+	window.location.href = "web/web_side.html";
+	let Switch = 24;
+	localStorage.setItem("Switch",Switch);
+}
+
+function button25(){
+	window.location.href = "web/web_side.html";
+	let Switch = 25;
+	localStorage.setItem("Switch",Switch);
+}
